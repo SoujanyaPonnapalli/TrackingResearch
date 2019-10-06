@@ -8,6 +8,7 @@ My research interests are broadly in the following areas:
 1. Distributed and Decentralized systems
 2. Persistent Memory
 3. File systems and key-value stores
+4. Data Structures
 4. Verification and Formal Methods
 5. Systems for ML
 
