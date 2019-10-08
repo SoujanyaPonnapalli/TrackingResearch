@@ -27,7 +27,7 @@ List of research papers published from SOSP'19 in my areas of research interest.
 
 ## Systems for ML
 
-1. [Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform](https://arxiv.org/abs/1909.01502)
+1. (:heavy_check_mark:) [Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform](https://arxiv.org/abs/1909.01502)
 2. Honeycrisp: Large-scale Differentially Private Aggregation Without a Trusted Core
 3. [PipeDream: Generalized Pipeline Parallelism for DNN Training](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf)
 4. [A Generic Communication Scheduler for Distributed DNN Training Acceleration](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf)
