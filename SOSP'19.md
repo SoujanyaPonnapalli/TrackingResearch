@@ -14,9 +14,9 @@ List of research papers published from SOSP'19 in my areas of research interest.
 ## Persistent Memory
 
 1. KVell: the Design and Implementation of a Fast Persistent Key-Value Store
-2. [RECIPE: Converting Concurrent DRAM Indexes to Persistent-Memory Indexes](https://www.cs.utexas.edu/~vijay/papers/sosp19-recipe.pdf)
+2. (:heavy_check_mark:) [RECIPE: Converting Concurrent DRAM Indexes to Persistent-Memory Indexes](https://www.cs.utexas.edu/~vijay/papers/sosp19-recipe.pdf)
 3. Performance and Protection in the ZoFS User-space NVM File System
-4. [SplitFS: Reducing Software Overhead in File Systems for Persistent Memory](https://arxiv.org/abs/1909.10123)
+4.  (:heavy_check_mark:) [SplitFS: Reducing Software Overhead in File Systems for Persistent Memory](https://arxiv.org/abs/1909.10123)
 
 ## Verification
 
