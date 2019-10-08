@@ -4,7 +4,7 @@ List of research papers published from SOSP'19 in my areas of research interest.
 
 ## Distributed and Decentralized Systems
 
-1. [Teechain: A Secure Payment Network with Asynchronous Blockchain Access](https://arxiv.org/pdf/1707.05454.pdf)
+1.  (:heavy_check_mark:) [Teechain: A Secure Payment Network with Asynchronous Blockchain Access](https://arxiv.org/pdf/1707.05454.pdf)
 2. [Fast and Secure Payments With Stellar](https://www.scs.stanford.edu/~dm/home/papers/lokhava:stellar-core.pdf)
 3. [NOTARY: A Device For Secure Transaction Approval](https://pdos.csail.mit.edu/papers/notary:sosp19.pdf)
 4. [Lineage Stash: Fault Tolerance Off the Critical Path](http://people.inf.ethz.ch/ioannisl/sosp19.pdf)
@@ -16,11 +16,11 @@ List of research papers published from SOSP'19 in my areas of research interest.
 1. KVell: the Design and Implementation of a Fast Persistent Key-Value Store
 2. (:heavy_check_mark:) [RECIPE: Converting Concurrent DRAM Indexes to Persistent-Memory Indexes](https://www.cs.utexas.edu/~vijay/papers/sosp19-recipe.pdf)
 3. Performance and Protection in the ZoFS User-space NVM File System
-4.  (:heavy_check_mark:) [SplitFS: Reducing Software Overhead in File Systems for Persistent Memory](https://arxiv.org/abs/1909.10123)
+4. (:heavy_check_mark:) [SplitFS: Reducing Software Overhead in File Systems for Persistent Memory](https://arxiv.org/abs/1909.10123)
 
 ## Verification
 
-1. [scaling symbolic evaluation for automated verification of systems code with serval](https://www.cs.utexas.edu/~bornholt/papers/serval-sosp19.pdf)
+1. (:heavy_check_mark:) [scaling symbolic evaluation for automated verification of systems code with serval](https://www.cs.utexas.edu/~bornholt/papers/serval-sosp19.pdf)
 2. [Verifying Concurrent, Crash-safe Systems with Perennial](https://people.csail.mit.edu/nickolai/papers/chajed-perennial.pdf)
 3. [Using Concurrent Relational Logic with Helpers for Verifying the AtomFS File System](https://www.cs.columbia.edu/~rgu/publications/sosp19-zou.pdf)
 4. [Verifying Software Network Functions with No Verification Expertise](https://dslab.epfl.ch/pubs/vigor.pdf)
