@@ -6,7 +6,7 @@ List of research papers published from SOSP'19 in my areas of research interest.
 
 1.  (:heavy_check_mark:) [Teechain: A Secure Payment Network with Asynchronous Blockchain Access](https://arxiv.org/pdf/1707.05454.pdf)
 2. [Fast and Secure Payments With Stellar](https://www.scs.stanford.edu/~dm/home/papers/lokhava:stellar-core.pdf)
-3. [NOTARY: A Device For Secure Transaction Approval](https://pdos.csail.mit.edu/papers/notary:sosp19.pdf)
+3. (:heavy_check_mark:) [NOTARY: A Device For Secure Transaction Approval](https://pdos.csail.mit.edu/papers/notary:sosp19.pdf)
 4. [Lineage Stash: Fault Tolerance Off the Critical Path](http://people.inf.ethz.ch/ioannisl/sosp19.pdf)
 5. [File Systems Unfit as Distributed Storage Backends: Lessons from 10 Years of Ceph Evolution](https://www.pdl.cmu.edu/PDL-FTP/Storage/ceph-exp-sosp19.pdf)
 6. [I4: Incremental Inference of Inductive Invariants for Verification of Distributed Protocols](https://dl.acm.org/citation.cfm?id=3321451)
@@ -29,7 +29,7 @@ List of research papers published from SOSP'19 in my areas of research interest.
 
 1. (:heavy_check_mark:) [Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform](https://arxiv.org/abs/1909.01502)
 2. Honeycrisp: Large-scale Differentially Private Aggregation Without a Trusted Core
-3. [PipeDream: Generalized Pipeline Parallelism for DNN Training](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf)
+3. (:heavy_check_mark:) [PipeDream: Generalized Pipeline Parallelism for DNN Training](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf)
 4. [A Generic Communication Scheduler for Distributed DNN Training Acceleration](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf)
 5. [Parity Models: Erasure-Coded Resilience for Prediction Serving Systems](http://www.cs.cmu.edu/~rvinayak/papers/sosp2019parity-models.pdf)
 6. [TASO: Optimizing Deep Learning Computation with Automated Generation of Graph Substitutions](http://www.cs.cmu.edu/~rvinayak/papers/sosp2019parity-models.pdf)
